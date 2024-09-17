@@ -121,4 +121,4 @@ Grafikler, her iki modelin performansını ve tahmin dağılımlarını görsel 
 ![image](https://github.com/user-attachments/assets/74ae27f3-c152-4bd0-9f70-fa83196f09be)
 
 
-kaggle: https://www.kaggle.com/code/melihemin/notebookdae4bfdc6a
+kaggle: https://www.kaggle.com/code/melihemin/knnlr
