@@ -17,7 +17,7 @@ Bu çalışmada iki farklı makine öğrenimi modeli kullanarak bir veri setinde
 
 ## Veri Seti
 
-Veri seti, büyük bir veri kümesini içerir ve yaklaşık 10 MB boyutundadır. Bu veri seti, çeşitli özelliklere sahip araçların fiyatlarını tahmin etmeye yönelik kullanılmıştır.
+Veri seti, büyük bir veri kümesini içerir ve yaklaşık 10 MB boyutundadır. Bu veri seti, çeşitli özelliklere ve yaşam tarzına sahip insanların gelirini tahmin etmeye yöneliktir.
 
 ## Modeller
 
