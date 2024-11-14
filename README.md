@@ -1,3 +1,4 @@
+https://onedrive.live.com/personal/da7a7ec3d3a2b34e/_layouts/15/Doc.aspx?sourcedoc=%7B2e66cb0d-5fd2-4476-a456-b99b058bc573%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9kYTdhN2VjM2QzYTJiMzRlL0VRM0xaaTdTWDNaRXBGYTVtd1dMeFhNQnBUVDBxVmN1dXExbklqYmhJODdkbFE_ZT1IOW8xNUI&slrid=efc563a1-20b0-a000-5613-e8037b23ee51&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9kYTdhN2VjM2QzYTJiMzRlL0VRM0xaaTdTWDNaRXBGYTVtd1dMeFhNQnBUVDBxVmN1dXExbklqYmhJODdkbFE_cnRpbWU9eWNGY1BwWUUzVWc&CID=f505d0b4-e8cc-443c-b481-0d8e6047d756&_SRM=0:G:48&file=TO%20ROME.pptx
 # Makine Öğrenimi: Lineer Regresyon ve KNN Performans Analizi
 
 Bu proje, **Lineer Regresyon** ve **K-Nearest Neighbors (KNN)** algoritmalarını büyük bir veri seti üzerinde karşılaştırır. Amacımız her iki modelin performansını değerlendirmek ve grafiklerle nasıl farklı olduklarını görmek.
